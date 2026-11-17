@@ -1,0 +1,6 @@
+{
+  "name": "Kremelim Butik Operasyon",
+  "description": "TikTok canlı yayın stok, WhatsApp akıllı bot, 0-9 raf gruplama, dekont doğrulama, kargo barkod etiketleme, 3D ürün stüdyosu ve canlı ses transkripsiyon platformu.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
